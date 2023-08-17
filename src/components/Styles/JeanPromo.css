@@ -1,0 +1,34 @@
+.Jean-promo{
+    margin-top: 20vh;
+    width: auto;
+
+}
+
+.Jean-promo-cont{ 
+ 
+ display: flex;
+ justify-content: space-between;
+}
+
+.Jean-promo-cont img{
+    width: auto;
+    height: 90vh;
+}
+.Jean-promo-content h1{
+    color: rgb(78, 83, 83);
+    font-weight: 1000;
+    font-size: 100px;
+}
+.Jean-promo-content h2{
+    
+    font-weight: 800;
+    font-size: 60px;
+}
+.Jean-promo-content h1:hover{
+    color: rgba(29, 67, 172, 0.966);
+   
+}
+.Jean-promo-content h2:hover{
+    
+    color: rgba(29, 67, 172, 0.966);
+}

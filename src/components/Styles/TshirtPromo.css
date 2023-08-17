@@ -1,0 +1,35 @@
+.Tshirt-promo{
+    margin-top: 20vh;
+    width: auto;
+
+}
+
+.Tshirt-promo-cont{ 
+ 
+ display: flex;
+ justify-content: space-between;
+}
+
+.Tshirt-promo-cont img{
+    width: auto;
+    height: 90vh;
+}
+.Tshirt-promo-content h1{
+    color: rgb(78, 83, 83);
+    font-weight: 1000;
+    font-size: 100px;
+}
+.Tshirt-promo-content h2{
+    
+    font-weight: 800;
+    font-size: 60px;
+}
+.Tshirt-promo-content h1:hover{
+    color: rgba(2, 2, 2, 0.966);
+  
+   
+}
+.Tshirt-promo-content h2:hover{
+    
+    color: rgba(0, 0, 0, 0.966);
+}

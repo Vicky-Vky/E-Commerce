@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+  
+  .jean-slider .slider {
+    margin:0 20px;
+    overflow:"hidden";
+    padding:2rem 0;
+    position: relative;
+  }
+  
+  .jean-slider .slider img{
+    width: 100%;
+    border-radius:10px;
+  }
+  
+  .jean-slider .react-multi-carousel-list {
+  padding: 0rem 0 2rem 0;
+  }
+  
+  .jean-slider .custom-dot-list-style button{
+  border: none;
+  background: rgb(255, 68, 68);
+  }
+  .jean-slider .react-multi-carousel-dot.react-multi-carousel-dot--active button{
+  background: rgb(255, 68, 68) !important;
+  }
+  .jean-slider .slider img{
+    border: 0.5px solid rgba(199, 206, 206, 0.541);
+  }
+  .jean-slider .slider .slider-btn{
+    background-color: rgba(0, 0, 0, 0.822);
+    border: none;
+    padding: 8px;
+    color: white;
+    font-size: 14px;
+    position: absolute;
+    top: 47vh;
+    left: 34vh;
+
+  }
+
+  .Jean-title{
+    
+    margin-top: 10vh;
+    padding-left: 5vh;
+    color: rgb(78, 83, 83);
+    font-family: 'Jost', sans-serif;
+  }
